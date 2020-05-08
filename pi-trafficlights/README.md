@@ -42,3 +42,4 @@ or use http://www.hivemq.com/demos/websocket-client/ as MQTT websocket client.
 + `node-red-node-pi-sense-hat` to use pi sensehat
 
 ### Screenshots
+![2019-06-08_23-18-00](https://github.com/SirKitts/node-red-contrib-flows-samples/blob/sample/aws-rekognition/pi-trafficlights/screenshots/flow-traffic-lights-with-mqtt-pi-sensehat.png)
