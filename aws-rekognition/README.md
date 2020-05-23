@@ -74,4 +74,4 @@ aws s3 cp target.jpg s3://name-of-your-s3-bucket-123
 + `node-red-node-pi-sense-hat` to use pi sensehat
 
 ### Screenshots
-![2019-06-08_23-18-00](https://github.com/SirKitts/node-red-contrib-flows-samples/blob/sample/aws-rekognition/aws-rekognition/screenshots/flow-aws-rekognition-with-camera-pi-sensehat.png)
+![](https://github.com/SirKitts/node-red-contrib-flows-samples/blob/master/aws-rekognition/screenshots/flow-aws-rekognition-with-camera-pi-sensehat.png)
